@@ -1,5 +1,4 @@
-![PacMan](./PACMAN.png)
-
+# PacMan
 
 ### Context 
 Project developped in a group of 3 at INSA Lyon in 2020 for an informatic lecture. 
